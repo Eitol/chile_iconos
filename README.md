@@ -1,8 +1,8 @@
-#chile_iconos
+# chile_iconos
 
 En este repositorio podrás conseguir íconos (isotipos e imagotipos) de distintas instituciones chilenas.
 
-####Tipos de imágenes:
+#### Tipos de imágenes:
 
 * "full" hacen referencias a "isotipos". 
 
@@ -15,7 +15,9 @@ i.e: ![](./bancos_chile/low/logo/logo_bci.png)
 <br/>
 <br/>
 
-####Resoluciones:
+
+### Resoluciones:
+
 
 | Tipo     | logo         | full  |
 | -------- |:------------:| -----:|
@@ -28,7 +30,7 @@ i.e: ![](./bancos_chile/low/logo/logo_bci.png)
 
 ### Lista de recursos
 
-####Bancos:
+#### Bancos:
 
 | Banco                 | label         | full  | logo  |
 | -------------         |:-------------:| -----:| -----:|
@@ -53,8 +55,15 @@ i.e: ![](./bancos_chile/low/logo/logo_bci.png)
 | Scotiabank            | scotiabank       | ![](./bancos_chile/low/full/full_scotiabank.png) | ![](./bancos_chile/low/logo/logo_scotiabank.png) |
 
 
+#### Credit card brand 
 
-
-
+| Credit card brand     | label         | full  |
+| -------------         |:-------------:| -----:|
+|                       |               |       |
+| Scotiabank            | american_express       | ![](./credit_card_brand/low/logo/american_express.png) | 
+| Scotiabank            | dinners_club       | ![](./credit_card_brand/low/logo/dinners_club.png) |
+| Scotiabank            | magna       | ![](./credit_card_brand/low/logo/magna.png) |
+| Scotiabank            | master_card       | ![](./credit_card_brand/low/logo/master_card.png) |
+| Scotiabank            | visa       | ![](./credit_card_brand/low/logo/visa.png) |
 
 
