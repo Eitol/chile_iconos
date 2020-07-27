@@ -67,3 +67,15 @@ i.e: ![](./bancos_chile/low/logo/logo_bci.png)
 | Scotiabank            | visa       | ![](./credit_card_brand/low/logo/visa.png) |
 
 
+#### Tickets de restaurant
+
+| Nombre                 | label         | full  | logo  |
+| -------------         |:-------------:| -----:| -----:|
+| Amipass             | amipass        | ![](./tickets/low/full/amipass.png) | ![](./tickets/low/logo/amipass.png) |
+| edenred             | edenred        | ![](./tickets/low/full/edenred.png) | ![](./tickets/low/logo/edenred.png) |
+| sodexo             | sodexo        | ![](./tickets/low/full/sodexo.png) | ![](./tickets/low/logo/sodexo.png) |
+| ticket_restaurant             | ticket_restaurant        | ![](./tickets/low/full/ticket_restaurant.png) | ![](./tickets/low/logo/ticket_restaurant.png) |
+
+
+
+
