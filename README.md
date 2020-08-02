@@ -117,12 +117,32 @@ i.e: ![](./bancos_chile/low/logo/logo_bci.png)
 
 
 
-#### Servicios
-| Nombre       | Tipo | label         | full  | logo  |
-| -------------| -----:|        |:-------------:| -----:| -----:|
-| Amipass      |       | #CHANGE        | ![](./medios_de_pago/low/full/#CHANGE.png) | ![](./medios_de_pago/low/logo/#CHANGE.png) |
+### Servicios
+
+#### Agua
+| Nombre       | label         | full  | logo  |
+| -------------| -------------:| -----:| -----:|
+| Aguas andinas |  aguas_andinas        | ![](./agua/low/full/aguas_andinas.png) | ![](./agua/low/logo/aguas_andinas.png) |  
+| Aguas nuevas |  aguas_nuevas        | ![](./agua/low/full/aguas_nuevas.png) | ![](./agua/low/logo/aguas_nuevas.png) |
+| Essbio      |  essbio        | ![](./agua/low/full/essbio.png) | ![](./agua/low/logo/essbio.png) |
+| Nuevosur      |  nuevosur        | ![](./agua/low/full/nuevosur.png) | ![](./agua/low/logo/nuevosur.png) |
+
+#### Telefonía
+| Nombre       |  label         | full  | logo  |
+| -------------| -------------:| -----:| -----:|
+| Movistar      |  movistar        | ![](./telefonia/low/full/movistar.png) | ![](./telefonia/low/logo/movistar.png) |
+| Claro      |  claro        | ![](./telefonia/low/full/claro.png) | ![](./telefonia/low/logo/claro.png) |
+| Entel      |  entel        | ![](./telefonia/low/full/entel.png) | ![](./telefonia/low/logo/entel.png) |
+| Virgin      |  virgin        | ![](./telefonia/low/full/virgin.png) | ![](./telefonia/low/logo/virgin.png) |
+| Wom      |  wom        | ![](./telefonia/low/full/wom.png) | ![](./telefonia/low/logo/wom.png) |
 
 
-
+#### Gas
+| Nombre       |  label         | full  | logo  |
+| -------------| -------------:| -----:| -----:|
+| Lipigas      |  lipigas        | ![](./gas/low/full/lipigas.png) | ![](./gas/low/logo/lipigas.png) |
+| Gasco        |  gasco        | ![](./gas/low/full/gasco.png) | ![](./gas/low/logo/gasco.png) |
+| Abastible    |  abastible        | ![](./gas/low/full/abastible.png) | ![](./gas/low/logo/abastible.png) |
+| Metrogas     |  metrogas        | ![](./gas/low/full/metrogas.png) | ![](./gas/low/logo/metrogas.png) |
 
 
