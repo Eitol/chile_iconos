@@ -66,17 +66,22 @@ i.e: ![](./bancos_chile/low/logo/logo_bci.png)
 | Scotiabank            | master_card       | ![](./credit_card_brand/low/logo/master_card.png) |
 | Scotiabank            | visa       | ![](./credit_card_brand/low/logo/visa.png) |
 
-
+ 
 #### Tickets de restaurant
 
-| Nombre                 | label         | full  | logo  |
+| Nombre                 | label         | full  | logo  | 
 | -------------         |:-------------:| -----:| -----:|
 | Amipass             | amipass        | ![](./tickets/low/full/amipass.png) | ![](./tickets/low/logo/amipass.png) |
 | edenred             | edenred        | ![](./tickets/low/full/edenred.png) | ![](./tickets/low/logo/edenred.png) |
 | sodexo             | sodexo        | ![](./tickets/low/full/sodexo.png) | ![](./tickets/low/logo/sodexo.png) |
 | ticket_restaurant             | ticket_restaurant        | ![](./tickets/low/full/ticket_restaurant.png) | ![](./tickets/low/logo/ticket_restaurant.png) |
+| Rappi             | rappi       | ![](./tickets/low/full/rappi.png) | ![](./tickets/low/logo/rappi.png) |
+| glovo             | glovo       | ![](./tickets/low/full/glovo.png) | ![](./tickets/low/logo/glovo.png) |
+| cornershop        | cornershop       | ![](./tickets/low/full/cornershop.png) | ![](./tickets/low/logo/cornershop.png) |
+| pedidos_ya             | pedidos_ya       | ![](./tickets/low/full/pedidos_ya.png) | ![](./tickets/low/logo/pedidos_ya.png) |
+| uber_eats             | uber_eats       | ![](./tickets/low/full/uber_eats.png) | ![](./tickets/low/logo/uber_eats.png) |
 
-
+ 
 #### Isapres
 
 | Nombre                 | label         | full  | logo  |
